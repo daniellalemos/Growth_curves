@@ -1,6 +1,6 @@
 # Development of Reference Percentile Growth Curves for Placental Parameters Using Advanced Statistical Models
 
-This repository contains the resources related to the BMC Bioinformatics paper, titled "Development of Reference Percentile Growth Curves for Placental Parameters Using Advanced Statistical Models". In this study, the applicability of nonlinear regression models on growth curves of placental and fetal parameters was explored using a dataset of Portuguese parturients provided by CGC Genetics, Porto.
+This repository contains the resources related to the paper, titled "Development of Reference Percentile Growth Curves for Placental Parameters Using Advanced Statistical Models". In this study, the applicability of nonlinear regression models on growth curves of placental and fetal parameters was explored using a dataset of Portuguese parturients provided by CGC Genetics, Porto.
 
 
 ## Abstract
